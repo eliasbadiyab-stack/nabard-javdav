@@ -1,0 +1,18 @@
+{
+  "name": "پاسداران ایران: نبرد جاودان",
+  "short_name": "پاسداران ایران",
+  "description": "بازی اکشن سه‌بعدی سوم‌شخص برای محافظت از تخت جمشید و آرامگاه کوروش بزرگ - سازنده: الیاس بادیاب",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#020617",
+  "theme_color": "#d97706",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230f172a'/><circle cx='50' cy='50' r='38' fill='%23f59e0b'/><text x='50' y='65' font-size='42' text-anchor='middle'>🦁</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

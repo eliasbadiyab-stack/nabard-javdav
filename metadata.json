@@ -1,0 +1,6 @@
+{
+  "name": "پاسداران ایران: نبرد جاودان",
+  "description": "بازی اکشن سه‌بعدی سوم‌شخص حماسی برای محافظت از آثار تاریخی کهن ایران زمین (تخت جمشید، آرامگاه کوروش بزرگ و فردوسی). سازنده: الیاس بادیاب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
